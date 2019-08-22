@@ -109,7 +109,7 @@ See [documentation](https://github.com/webpack/loader-utils#interpolatename).
 ```
 
 > :warning: chunks created by the loader will be named according to the
-[`output.chunkFilename`](https://webpack.js.org/configuration/output/#output-chunkfilename) rule, which defaults to `[id].[name]`. Here `[name]` corresponds to the chunk name set in the `name` options parameter.
+[`output.chunkFilename`](https://webpack.js.org/configuration/output/#outputchunkfilename) rule, which defaults to `[id].[name]`. Here `[name]` corresponds to the chunk name set in the `name` options parameter.
 
 <h2 align="center">Examples</h2>
 
